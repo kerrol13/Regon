@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Regon.Application/Regon.Application.csproj" />
+  <Project Path="Regon.Domain/Regon.Domain.csproj" />
+  <Project Path="Regon.Infrastructure/Regon.Infrastructure.csproj" />
+  <Project Path="Regon.Tests/Regon.Tests.csproj" Id="7c181edb-c30a-465a-8d15-c407ec9b2b3c" />
+  <Project Path="Regon/Regon.csproj" />
+</Solution>

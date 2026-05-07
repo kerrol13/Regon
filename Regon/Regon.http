@@ -1,0 +1,6 @@
+@Regon_HostAddress = http://localhost:5289
+
+GET {{Regon_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
