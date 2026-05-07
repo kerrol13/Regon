@@ -22,4 +22,8 @@
     <ProjectReference Include="..\Regon.Infrastructure\Regon.Infrastructure.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\uploads\" />
+  </ItemGroup>
+
 </Project>
